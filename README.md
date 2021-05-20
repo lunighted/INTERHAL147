@@ -18,6 +18,7 @@ apt -y install bash git python3
 
 +++ IF YOU NOT GET PIP3 AUTOMATICALY
 - apt -y install python3-pip
+
 +++ NEXT
 
 pip3 install requests
@@ -28,6 +29,7 @@ chmod +x ./interhal
 +++ IF WANT'S USE IT SYSTEMLESS 
 - cp interhal /bin/
 - interhal
+
 +++ NEXT
 
 ./interhal 

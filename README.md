@@ -24,15 +24,15 @@ apt -y install bash git python3
 pip3 install requests
 git clone https://github.com/lunighted/INTERHAL147
 cd INTERHAL147
-chmod +x ./interhal
+chmod +x ./interhal*
 
 +++ IF WANT'S USE IT SYSTEMLESS 
-- cp interhal /bin/
-- interhal
+- ./interhal(your platform)
 
 +++ NEXT
 
-./interhal 
+cp interhal(your platform) /bin/interhal
+interhal 
 
 D O N E
 

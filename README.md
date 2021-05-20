@@ -2,12 +2,12 @@
 
 INTERHAL IS:
 Intensive DDoS script capable of creating up to 999 streams with unlimited load. 
-It can be used on several servers at once. For testing purpose. Temporary is not open-source and only BINARY_X64 project. Maybe in future will be created a DEB-X64 package or published source code.
+It can be used on several servers at once. For testing purpose. Temporary is not open-source and only BINARY project. Maybe in future will be created a DEB package or published source code.
                             L U N I G H T
 
 # R E Q U I R E M E N T S :
 
-- LINUX X64 Only
+- LINUX i686(INTEL both x32 and x64), amd64(AMD x64), arm(ARMv7+) or aarch64(ARMv8+) Only
 - Bash 
 - Python 3
 - Python Requests
